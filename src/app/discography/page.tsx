@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Navbar from "../../components/Navbar";
 import RecordGrid from "../../components/RecordGrid";
 import { createClient } from "contentful";

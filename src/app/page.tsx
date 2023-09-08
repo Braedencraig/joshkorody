@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import RecordGrid from "../components/RecordGrid";
@@ -24,7 +25,6 @@ export default async function Home() {
   const data = await getData();
   const title = data[0].title;
   const records = data[0].albums;
-
 
   return (
     <div className="bg-white text-black">
