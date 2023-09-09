@@ -1,4 +1,3 @@
-// @ts-nocheck
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import RecordGrid from "../components/RecordGrid";
@@ -51,27 +50,32 @@ export default async function Home() {
         {/* Bio */}
         <div className="space-y-4 text-lg mt-10 mb-10 px-2 md:px-0">
           <p>
-            Producer/Engineer/Studio Owner and Artist based in Toronto with 15
-            years of experience in Studio Production as well as touring/gigging
-            around the world making music as an artist. Running the well known
-            &quot;Candle Recording Studio&quot; for 10+ years in Toronto,
-            working with some of Canada&apos;s buzziest and most successful
-            Independent bands/artists, some who have been nominated for
-            Juno&apos;s and Polaris awards. Josh wears every hat you need him to
-            wear with extensive knowledge of the complete recording process
-            including engineering, editing, mixing, production, and performing.
-            He believes what makes him a &quot;in demand person&quot; all these
-            years is his ability to make artists feel at home and being an
-            absolute music freak that really takes the time to understand what
-            someone is looking to do sonically and knows how to achieve that no
-            matter what the genre.
+            Josh Korody is a Mixer/Producer/Engineer and Artist based in Toronto
+            with over 15 years of experience in Studio Production as well as
+            releasing music under his projects Breeze, Nailbiter and Beliefs.
+            Josh is also known for running the legendary &quot;Candle Recording
+            Studio&quot; for over 10 years in Toronto, constantly working with
+            some of Canada&apos;s buzziest and successful Independent
+            bands/artists, some who have been nominated for Juno&apos;s and
+            Polaris awards.
+          </p>
+
+          <p>
+            Josh wears every hat you need him to wear with extensive knowledge
+            of the complete recording process including engineering, editing,
+            mixing, production, and performing. He believes what makes him a
+            &quot;in demand person&quot; all these years is his ability to make
+            artists feel at home and being an absolute music freak that really
+            takes the time to understand what someone is looking to do sonically
+            and knows how to achieve that no matter what the genre.
           </p>
           <p>
-            Specializing in Alternative / Indie / Electronic. Josh has been
+            Specializing in Alternative / Indie / Electronic Korody has been
             behind the boards for many Independent artists in different
             production capacities such as Dilly Dally, Tess Parks, Fucked Up,
-            Weaves, Japandroids, The Beaches, The Dirty Nil, Traitrs and has
-            also worked with Dean Blunt, Cadence Weapon, and Tanya Tagaq.
+            Weaves, Japandroids, The Beaches, The Dirty Nil, Traitrs, Bonnie
+            Trash and has also worked with Dean Blunt, Cadence Weapon, and Tanya
+            Tagaq.
           </p>
         </div>
 
