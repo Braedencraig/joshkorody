@@ -1,4 +1,6 @@
 // @ts-nocheck
+export const revalidate = 0;
+
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import RecordGrid from "../components/RecordGrid";
