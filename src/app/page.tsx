@@ -56,21 +56,20 @@ export default async function Home() {
             Josh Korody is a Mixer/Producer/Engineer and Artist based in Toronto
             with over 15 years of experience in Studio Production as well as
             releasing music under his projects Breeze, Nailbiter and Beliefs.
-            Josh is also known for running the legendary &quot;Candle Recording
-            Studio&quot; for over 10 years in Toronto, constantly working with
-            some of Canada&apos;s buzziest and successful Independent
-            bands/artists, some who have been nominated for Juno&apos;s and
-            Polaris awards.
+            Josh is also known for running the legendary "Candle Recording
+            Studio" for over 10 years in Toronto, constantly working with some
+            of Canada's buzziest and successful Independent bands/artists, some
+            who have been nominated for Juno's and Polaris awards.
           </p>
 
           <p>
             Josh wears every hat you need him to wear with extensive knowledge
             of the complete recording process including engineering, editing,
-            mixing, production, and performing. He believes what makes him a
-            &quot;in demand person&quot; all these years is his ability to make
-            artists feel at home and being an absolute music freak that really
-            takes the time to understand what someone is looking to do sonically
-            and knows how to achieve that no matter what the genre.
+            mixing, production, and performing. He believes what makes him a "in
+            demand person" all these years is his ability to make artists feel
+            at home and being an absolute music freak that really takes the time
+            to understand what someone is looking to do sonically and knows how
+            to achieve that no matter what the genre.
           </p>
           <p>
             Specializing in Alternative / Indie / Electronic Korody has been
