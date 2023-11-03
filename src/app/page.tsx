@@ -32,7 +32,7 @@ export default async function Home() {
     <div className="bg-white text-black">
       <Navbar />
       <main className="px-4 py-8 md:px-8 md:py-10 max-w-screen-xl mx-auto">
-        {/* Headers */}
+        {/* Header */}
         <h1 className="text-4xl md:text-6xl text-center font-semibold mb-10">
           JOSH KORODY
         </h1>
