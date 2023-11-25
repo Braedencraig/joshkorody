@@ -51,34 +51,45 @@ export default async function Home() {
         </div>
 
         {/* Bio */}
+
         <div className="space-y-4 text-lg mt-10 mb-10 px-2 md:px-0">
           <p>
-            Josh Korody is a Mixer/Producer/Engineer and Artist based in Toronto
-            with over 15 years of experience in Studio Production as well as
-            releasing music under his projects Breeze, Nailbiter and Beliefs.
-            Josh is also known for running the legendary &quot;Candle Recording
-            Studio&quot; for over 10 years in Toronto, constantly working with
-            some of Canada&apos;s buzziest and successful Independent
-            bands/artists, some who have been nominated for Juno&apos;s and
-            Polaris awards.
-          </p>
-
-          <p>
-            Josh wears every hat you need him to wear with extensive knowledge
-            of the complete recording process including engineering, editing,
-            mixing, production, and performing. He believes what makes him a
-            &quot;in demand person&quot; all these years is his ability to make
-            artists feel at home and being an absolute music freak that really
-            takes the time to understand what someone is looking to do sonically
-            and knows how to achieve that no matter what the genre.
+            Josh Korody is a Producer-Mixer-Engineer-Artist who has been a
+            staple figure in the Canadian music world for the last decade.
+            Korody built and operated the acclaimed studio “Candle Recording”
+            for 10 years with great success watching bands/artists from every
+            level enter its doors from Gordon Downie (The Tragically Hip) and
+            Jeremy Taggart (Our Lady Peace) to young artists making their first
+            album.
           </p>
           <p>
-            Specializing in Alternative / Indie / Electronic Korody has been
-            behind the boards for many Independent artists in different
-            production capacities such as Dilly Dally, Tess Parks, Fucked Up,
-            Weaves, Japandroids, The Beaches, The Dirty Nil, Traitrs, Bonnie
-            Trash and has also worked with Dean Blunt, Cadence Weapon, and Tanya
-            Tagaq.
+            Josh has worked with Juno & Polaris winners and nominees
+            Japandroids, Fucked Up, The Dirty Nil, The Beaches, Cadence Weapon,
+            Tanya Tagaq, Dilly Dally, Zoon and Weaves as well as Socan Music
+            Prize winners Partner. He’s managed to work with UK’s Dean Blunt
+            (Rough Trade) and the Barcelona band Mourn (Captured Tracks).
+            Exclaim named Dilly Dally&apos;s sore one of the best records of the
+            decade as well as Rough Trade named Tallies S/T Debut in the best
+            albums of 2019. In 2022 he saw success with his project Breeze for
+            his “Only Up” album receiving positive reviews from Pitchfork and
+            AllMusic, a KEXP appearance and nonstop radioplay in the US. Korody
+            likes to also work closely with the independent label Hand Drawn
+            Dracula. He has mixed both full length albums by the psych
+            songwriter Tess Parks and has also produced every release by the
+            goth duo Traitrs both who have had much international success.
+          </p>
+          <p>
+            Korody is also an artist as well releasing music with his Indie Brit
+            Pop inspired project Breeze, his Techno/Electronic based project
+            Nailbiter and his former Shoegaze/Alternative band Beliefs. He Also
+            runs his own Techno focused label Nodding Heads as well as a monthly
+            radio show on ISO radio. In 2022 Now Magazine called Korody the
+            unsung hero of the Toronto music scene. Being a musician and
+            songwriter himself, he has a knack for understanding
+            musicians/artists and offers a decade of studio and
+            creative-decision expertise; finding a balance between lifting an
+            artists potential, nurturing their strengths and tackling the
+            difficult decisions one needs to make in the creative process.
           </p>
         </div>
 
