@@ -1,6 +1,7 @@
 // @ts-nocheck
 export const revalidate = 0;
 
+import localFont from "next/font/local";
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import RecordGrid from "../components/RecordGrid";
@@ -23,6 +24,8 @@ async function getData() {
   return records;
 }
 
+const myFont = localFont({ src: "../../public/assets/neuropol.otf" });
+
 export default async function Home() {
   const data = await getData();
   const title = data[0].title;
@@ -33,7 +36,9 @@ export default async function Home() {
       <Navbar />
       <main className="px-4 py-8 md:px-8 md:py-10 max-w-screen-xl mx-auto">
         {/* Header */}
-        <h1 className="text-4xl md:text-6xl text-center font-semibold mb-10">
+        <h1
+          className={`${myFont.className} text-4xl md:text-6xl text-center font-semibold mb-10`}
+        >
           JOSH KORODY
         </h1>
 
@@ -93,7 +98,9 @@ export default async function Home() {
           </p>
         </div>
 
-        <h2 className="text-2xl md:text-4xl text-center font-semibold mb-10">
+        <h2
+          className={`${myFont.className} text-2xl md:text-4xl text-center font-semibold mb-10`}
+        >
           {title.toUpperCase()}
         </h2>
 

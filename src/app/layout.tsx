@@ -8,6 +8,8 @@ export const metadata: Metadata = {
   title: "Josh Korody",
   description:
     "Josh Korody is a Producer-Mixer-Engineer-Artist who has been a staple figure in the Canadian music world for the last decade.",
+  keywords:
+    "Josh Korody, Canadian Music Producer, Mixer, Engineer, Music Producer, Studio Recording, Music Production, Toronto",
 };
 
 export default function RootLayout({

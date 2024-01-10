@@ -3,6 +3,9 @@
 "use client";
 import { useState } from "react";
 import Navbar from "../../components/Navbar";
+import localFont from "next/font/local";
+
+const myFont = localFont({ src: "../../../public/assets/neuropol.otf" });
 
 export default function Contact() {
   // const [formData, setFormData] = useState({
@@ -45,7 +48,9 @@ export default function Contact() {
     <div className="bg-white text-black h-full">
       <Navbar />
       <main className="px-4 py-8 md:px-8 md:py-10 max-w-screen-xl mx-auto">
-        <h1 className="text-4xl md:text-6xl text-center font-semibold mb-10">
+        <h1
+          className={`${myFont.className} text-4xl md:text-6xl text-center font-semibold mb-10`}
+        >
           CONTACT
         </h1>
         <a

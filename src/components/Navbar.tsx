@@ -4,6 +4,9 @@
 import Link from "next/link";
 import HamburgerMenu from "./HamburgerMenu";
 import { usePathname } from "next/navigation";
+import localFont from "next/font/local";
+
+const myFont = localFont({ src: "../../public/assets/neuropol.otf" });
 
 function Navbar() {
   const pathname = usePathname();
@@ -15,7 +18,7 @@ function Navbar() {
   return (
     <nav className="p-4 flex justify-between items-center bg-white border-b border-black">
       <div>
-        <Link className="hidden md:flex" href="/">
+        <Link className={`hidden md:flex ${myFont.className}`} href="/">
           Josh Korody
         </Link>
       </div>
