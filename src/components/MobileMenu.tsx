@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useEffect } from "react";
+import localFont from "next/font/local";
+const myFont = localFont({ src: "../../public/assets/neuropol.otf" });
 
 function MobileMenu({ setIsOpen, isOpen }) {
   useEffect(() => {
@@ -19,7 +21,7 @@ function MobileMenu({ setIsOpen, isOpen }) {
       }`}
     >
       <div className="flex justify-between items-center p-4 border-b border-black">
-        <div className="text-2xl font-semibold">Menu</div>
+        <div className={`text-2xl font-semibold ${myFont.className}`}>Menu</div>
         <button
           onClick={() => setIsOpen(false)}
           className="text-4xl font-semibold"
