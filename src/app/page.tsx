@@ -104,6 +104,18 @@ export default async function Home() {
           {title.toUpperCase()}
         </h2>
 
+        <div className="mt-12 mb-12 px-0">
+          <iframe
+            src="https://open.spotify.com/embed/playlist/4INitOByXqxFSdqR0gXiNA?utm_source=generator"
+            width="100%"
+            height="352"
+            frameBorder="0"
+            allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy"
+          ></iframe>
+        </div>
+
         <RecordGrid records={records} />
       </main>
     </div>

@@ -41,6 +41,14 @@ function Navbar() {
         </Link>
         <Link
           className={`relative text-black transition-colors duration-300 transform after:bg-black after:absolute after:left-0 after:bottom-0 after:w-0 after:h-0.5 after:transition-width after:duration-300 hover:after:w-full ${isActive(
+            "/rates"
+          )}`}
+          href="/rates"
+        >
+          Rates
+        </Link>
+        <Link
+          className={`relative text-black transition-colors duration-300 transform after:bg-black after:absolute after:left-0 after:bottom-0 after:w-0 after:h-0.5 after:transition-width after:duration-300 hover:after:w-full ${isActive(
             "/contact"
           )}`}
           href="/contact"
