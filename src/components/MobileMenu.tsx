@@ -35,6 +35,13 @@ function MobileMenu({ setIsOpen, isOpen }) {
         </Link>
         <Link
           className="text-xl"
+          href="/rates"
+          onClick={() => setIsOpen(false)}
+        >
+          Rates
+        </Link>
+        <Link
+          className="text-xl"
           href="/discography"
           onClick={() => setIsOpen(false)}
         >

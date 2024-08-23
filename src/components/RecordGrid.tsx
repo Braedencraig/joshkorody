@@ -17,6 +17,7 @@ function RecordGrid({ records }) {
             />
           </div>
           <p className="mt-2 text-center">{record.fields.title}</p>
+          <p className="mt-2 text-center">{record.fields.credit}</p>
         </div>
       ))}
     </div>

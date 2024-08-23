@@ -69,6 +69,21 @@ export default function Rates() {
               safety net incase we need to push dates/ time/schedule.
             </p>
             <p className="text-base">
+              Note price per mix is reflected on how many songs you send at
+              once. So sending 1 song at a time over the course of a year
+              regardless of how you release it doesn’t fall under the 7+ song
+              based price. A general rule of thumb is 3 revisions max. If it
+              goes beyond that there may be some additional charges.{" "}
+            </p>
+            <p className="text-base">
+              A 50% deposit is required on all payments. The remaining 50% must
+              be paid out within 2 weeks of completion of sessions or finals
+              mixes. E-transferred to joshkorody@gmail.com. This not only
+              secures your time/project but allows me to have more consistent
+              income as well as easier bookkeeping. It’s also a safety net
+              incase we need to push dates/ time/schedule.
+            </p>
+            <p className="text-base">
               Please note that I mix from my home studio. Revisions ideally take
               place between email or zoom etc. However if a sit down is
               necessarily in person I can do 1 free (up to 4 hour) in person
@@ -80,7 +95,7 @@ export default function Rates() {
               If you’re sending me files to mix please send me 24 bit and
               whichever sample rate the session was recorded in (48 or 44.1
               etc). Use 48k if it was recorded that high but don’t convert your
-              44.1 session to 48k. WAV file’s please,
+              44.1 session to 48k. WAV file’s please.
             </p>
             <p className="text-base">
               If there are tracks that are not actually stereo (so say a kick
@@ -95,6 +110,9 @@ export default function Rates() {
               without your processing. If you are mostly happy with your eq and
               compression etc you can send me tracks with those on and I can
               work from there but I may ask for dry versions just in case.
+            </p>
+            <p className="text-base">
+              Please reach out if you have any additional questions or concerns.
             </p>
           </div>
         </div>
