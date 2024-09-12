@@ -98,11 +98,11 @@ export default async function Home() {
           </p>
         </div>
 
-        <h2
+        {/* <h2
           className={`${myFont.className} text-2xl md:text-4xl text-center font-semibold mb-10`}
         >
           {title.toUpperCase()}
-        </h2>
+        </h2> */}
 
         <div className="mt-12 mb-12 px-0">
           <iframe
@@ -116,7 +116,7 @@ export default async function Home() {
           ></iframe>
         </div>
 
-        <RecordGrid records={records} />
+        {/* <RecordGrid records={records} /> */}
       </main>
     </div>
   );
