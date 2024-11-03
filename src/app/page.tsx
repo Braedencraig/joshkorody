@@ -59,21 +59,26 @@ export default async function Home() {
 
         <div className="space-y-4 text-lg mt-10 mb-10 px-2 md:px-0">
           <p>
-            Josh Korody is a Producer-Mixer-Engineer-Artist who has been a
+            {`Josh Korody is a Producer-Mixer-Engineer-Artist who has been a
             staple figure in the Canadian music world for the last decade.
-            Korody built and operated the acclaimed studio “Candle Recording”
+            Korody co-built and operated the acclaimed studio “Candle Recording”
             for 10 years with great success watching bands/artists from every
             level enter its doors from Gordon Downie (The Tragically Hip) and
-            Jeremy Taggart (Our Lady Peace) to young artists making their first
-            album.
+            Jeremy Taggart (Our Lady Peace) to emerging artists making their
+            first album. Recent accomplishments have included landing 2
+            different songs in 2 large scale Motion Picture Soundtracks. One
+            being the song "Thin Flesh" by the band Traitrs (Co-Produced, Mixed
+            & Engineered) in the 2024 remake of "The Crow" as well as Tess
+            Park's song "Somedays" (Mixed) featured in 2024's Beetlejuice
+            Beetlejuice.`}
           </p>
           <p>
-            Josh has worked with Juno & Polaris winners and nominees
+            {`Josh has worked with Juno & Polaris winners and nominees
             Japandroids, Fucked Up, The Dirty Nil, The Beaches, Cadence Weapon,
             Tanya Tagaq, Dilly Dally, Zoon and Weaves as well as Socan Music
             Prize winners Partner. He’s managed to work with UK’s Dean Blunt
             (Rough Trade) and the Barcelona band Mourn (Captured Tracks).
-            Exclaim named Dilly Dally&apos;s sore one of the best records of the
+            Exclaim named Dilly Dally's sore one of the best records of the
             decade as well as Rough Trade named Tallies S/T Debut in the best
             albums of 2019. In 2022 he saw success with his project Breeze for
             his “Only Up” album receiving positive reviews from Pitchfork and
@@ -81,20 +86,24 @@ export default async function Home() {
             likes to also work closely with the independent label Hand Drawn
             Dracula. He has mixed both full length albums by the psych
             songwriter Tess Parks and has also produced every release by the
-            goth duo Traitrs both who have had much international success.
+            goth duo Traitrs both who have had much international success.`}
           </p>
           <p>
-            Korody is also an artist as well releasing music with his Indie Brit
+            {`Korody is also an artist as well releasing music with his Indie Brit
             Pop inspired project Breeze, his Techno/Electronic based project
-            Nailbiter and his former Shoegaze/Alternative band Beliefs. He Also
-            runs his own Techno focused label Nodding Heads as well as a monthly
-            radio show on ISO radio. In 2022 Now Magazine called Korody the
-            unsung hero of the Toronto music scene. Being a musician and
-            songwriter himself, he has a knack for understanding
-            musicians/artists and offers a decade of studio and
+            Nodding Heads & Nailbiter and his former Shoegaze/Alternative band
+            Beliefs. He Also runs his own Techno focused label Nodding Heads
+            Records as well as a monthly radio show on ISO radio. In 2022 Now
+            Magazine called Korody the unsung hero of the Toronto music scene.
+            Being a musician and songwriter himself, he has a knack for
+            understanding musicians/artists and offers a decade of studio and
             creative-decision expertise; finding a balance between lifting an
             artists potential, nurturing their strengths and tackling the
-            difficult decisions one needs to make in the creative process.
+            difficult decisions one needs to make in the creative process.`}
+          </p>
+          <p>
+            {`These days Josh currently does most of his tracking work at Wychwood
+            Sound in Toronto and has a home mixing studio.`}
           </p>
         </div>
 

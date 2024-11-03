@@ -49,10 +49,11 @@ export default function Rates() {
               </li>
             </ul>
             <p className="pt-8 text-base">
-              Note price per mix is reflected of how many songs you send at
+              Note price per mix is reflected on how many songs you send at
               once. So sending 1 song at a time over the course of a year
               regardless of how you release it doesn’t fall under the 7+ song
-              based price.
+              based price. A general rule of thumb is 3 revisions max. If it
+              goes beyond that there may be some additional charges.{" "}
             </p>
             <p className="text-base">
               A 50% deposit is required on all payments. The remaining 50% must
@@ -67,21 +68,6 @@ export default function Rates() {
               This not only secures your time/project but allows me to have more
               stable income as well as easier for book keeping. It’s also a
               safety net incase we need to push dates/ time/schedule.
-            </p>
-            <p className="text-base">
-              Note price per mix is reflected on how many songs you send at
-              once. So sending 1 song at a time over the course of a year
-              regardless of how you release it doesn’t fall under the 7+ song
-              based price. A general rule of thumb is 3 revisions max. If it
-              goes beyond that there may be some additional charges.{" "}
-            </p>
-            <p className="text-base">
-              A 50% deposit is required on all payments. The remaining 50% must
-              be paid out within 2 weeks of completion of sessions or finals
-              mixes. E-transferred to joshkorody@gmail.com. This not only
-              secures your time/project but allows me to have more consistent
-              income as well as easier bookkeeping. It’s also a safety net
-              incase we need to push dates/ time/schedule.
             </p>
             <p className="text-base">
               Please note that I mix from my home studio. Revisions ideally take
