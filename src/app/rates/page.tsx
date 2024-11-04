@@ -43,10 +43,8 @@ export default function Rates() {
             </h2>
             <ul className="list-disc ml-4 text-left">
               <li>1-3 songs Mixed $450 per song plus HST</li>
-              <li>
-                4-6 songs mixed (EP’s) $400 per song plus HST 7-10+ songs mixed
-                $360 per song plus HST
-              </li>
+              <li>4-6 songs mixed (EP’s) $400 per song plus HST</li>
+              <li>7-10+ songs mixed $360 per song plus HST</li>
             </ul>
             <p className="pt-8 text-base">
               Note price per mix is reflected on how many songs you send at
@@ -73,9 +71,8 @@ export default function Rates() {
               Please note that I mix from my home studio. Revisions ideally take
               place between email or zoom etc. However if a sit down is
               necessarily in person I can do 1 free (up to 4 hour) in person
-              session at Wychwood Sound for the project. Any additional in
-              person revisions sessions will be at the cost of the client at my
-              day rate.
+              session for the project. Any additional in person revisions
+              sessions will be at the cost of the client at my day rate.
             </p>
             <p className="text-base">
               If you’re sending me files to mix please send me 24 bit and
