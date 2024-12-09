@@ -11,7 +11,7 @@ export default function Rates() {
   return (
     <div className="bg-white text-black">
       <Navbar />
-      <main className="px-4 py-8 md:px-8 md:py-10 max-w-screen-xl mx-auto">
+      <main className="px-4 py-8 md:px-8 md:py-10 max-w-screen-xl mx-auto min-h-screen">
         <h1
           className={`${myFont.className} text-4xl md:text-6xl text-center font-semibold mb-10`}
         >
